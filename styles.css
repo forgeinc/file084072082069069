@@ -20,6 +20,10 @@ video {
     object-fit: cover; 
 }
 
+p {
+    color:black;
+}
+
 
 video::-webkit-media-controls-enclosure {
     display: none !important;
